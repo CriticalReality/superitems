@@ -127,9 +127,9 @@ The `--on_*` flags replace the whole list, so list every command you want to kee
 
 Click commands change for existing copies immediately. Name, description, material and model only change on items you give afterwards.
 
-## 6. Recipes
+## 6. Example Commands For Items
 
-**Dead brain coral you use up:**
+**Consumable dead brain coral:**
 
 ```
 /si create coral --name &5Mystic Coral --material paper --model minecraft:dead_brain_coral --consume right --on_right_click effect give @p minecraft:regeneration 10 1 true

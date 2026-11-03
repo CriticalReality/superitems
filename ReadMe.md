@@ -1,4 +1,4 @@
-<img width="256" height="128" alt="si" src="https://github.com/user-attachments/assets/47edec89-3e72-4a10-a321-dc961430cc73" />
+<img width="768" height="384" alt="sib" src="https://github.com/user-attachments/assets/cc3841de-8166-4928-b6af-0df63445f865" />
 
 # Welcome to the Superitems Github Repository
 
